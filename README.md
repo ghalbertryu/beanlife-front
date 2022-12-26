@@ -1,0 +1,1 @@
+# beanlife-front
