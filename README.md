@@ -3,10 +3,8 @@
 
 包含首頁, 商城, 論壇, 活動 四個版面
 
-## Run
-/beanlife-front/index.html
-
-Example
+## Demo
+[https://ghalbertryu.github.io/js-learn-homework/](https://ghalbertryu.github.io/js-learn-homework/)
 ![image](https://github.com/ghalbertryu/beanlife-front/blob/master/demo/demo-index-web.png)
 
 ## Changelog
